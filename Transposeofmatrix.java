@@ -1,3 +1,4 @@
+//transpose of matrix
 package simpleprogram;
 
 public class Transposeofmatrix {
