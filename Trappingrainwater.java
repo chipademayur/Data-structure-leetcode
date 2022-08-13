@@ -1,3 +1,4 @@
+//rain water trapping
 package simpleprogram;
 
 public class Trappingrainwater {
